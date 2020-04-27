@@ -11,6 +11,13 @@ Esse projeto é o front-end em Vuejs que consome uma [API REST em quarkus](https
 * Entrar em contato com o anunciante via whatsapp e instagram
 * Recaptcha da google para impedir a submissão do formulário por robôs ([vue-recaptcha-v3](https://github.com/AurityLab/vue-recaptcha-v3))
 * Analytics da google para monitorar o uso das páginas ([vue-gtag](https://github.com/MatteoGabriele/vue-gtag))
+* Contato e Denúncia via email
+
+![Home](https://github.com/HeptaTecnologia/aqui-ao-lado-vuejs/blob/master/Screenshot_2020-04-27%20Aqui%20ao%20Lado(1).png)
+
+![Formulário de Cadastro](https://github.com/HeptaTecnologia/aqui-ao-lado-vuejs/blob/master/Screenshot_2020-04-27%20Aqui%20ao%20Lado(2).png)
+
+![Contato](https://github.com/HeptaTecnologia/aqui-ao-lado-vuejs/blob/master/Screenshot_2020-04-27%20Aqui%20ao%20Lado(3).png)
 
 ## Instalação
 ```
