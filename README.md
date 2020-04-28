@@ -15,7 +15,7 @@ Esse projeto é o front-end em Vuejs que consome uma [API REST em quarkus](https
 
 Home: ![Home](https://github.com/HeptaTecnologia/aqui-ao-lado-vuejs/blob/master/Screenshot_2020-04-27%20Aqui%20ao%20Lado(1).png)
 
-Detalhes de um anúncio: ![Detalhes de um anúncio](https://github.com/HeptaTecnologia/aqui-ao-lado-vuejs/blob/master/Screenshot_2020-04-27%20Aqui%20ao%20Lado.png)
+Detalhes de um anúncio: ![Detalhes de um anúncio](https://github.com/HeptaTecnologia/aqui-ao-lado-vuejs/blob/master/Screenshot_2020-04-28%20Aqui%20ao%20Lado.png)
 
 Formulário de cadastro: ![Formulário de Cadastro](https://github.com/HeptaTecnologia/aqui-ao-lado-vuejs/blob/master/Screenshot_2020-04-27%20Aqui%20ao%20Lado(2).png)
 
